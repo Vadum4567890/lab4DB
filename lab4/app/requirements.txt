@@ -1,0 +1,8 @@
+flask==2.3.3
+waitress
+flask-sqlalchemy
+mysqlclient
+sqlalchemy-utils
+jinja2
+jsonify
+flask-restx
